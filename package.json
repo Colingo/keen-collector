@@ -1,0 +1,20 @@
+{
+  "name": "keen-collector",
+  "version": "0.0.0",
+  "description": "Function that sends data to Keen.IO collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Colingo/keen-collector.git\""
+  },
+  "keywords": [
+    "keen",
+    "keen.io"
+  ],
+  "author": "Colingo, Inc. <robert@colingo.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
