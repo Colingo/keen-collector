@@ -1,6 +1,6 @@
 {
   "name": "keen-collector",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Function that sends data to Keen.IO collections",
   "main": "index.js",
   "scripts": {
